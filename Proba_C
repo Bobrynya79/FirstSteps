@@ -1,0 +1,3 @@
+circle  с = {4.5, {1, 3}}
+printf ("%3.1f %d%d, c.radius,
+c.center.x, c.center.y);
